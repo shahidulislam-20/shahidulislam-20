@@ -4,9 +4,7 @@ Hello, I'm a front-end web developer, specializing in React, JavaScript, and Mon
 
 - 📫 How to reach me: shahidul.bd.1920@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shahidulislam20//)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/shahidulislam.20)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/shahidul_satu)  
+[<img src='https://i.ibb.co/30NMKZQ/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shahidulislam20//)  [<img src='https://i.ibb.co/fDYrFH4/facebook.jpg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/shahidulislam.20)  [<img src='https://i.ibb.co/1GK4rfs/twitter.jpg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/shahidul_satu)  
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=react,js,mongodb,tailwind,html,css)](https://skillicons.dev)
