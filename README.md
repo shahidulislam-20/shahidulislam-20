@@ -7,7 +7,7 @@ Hello, I'm a front-end web developer, specializing in React, JavaScript, and Mon
 [<img src='https://i.ibb.co/30NMKZQ/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/shahidulislam20//)  [<img src='https://i.ibb.co/fDYrFH4/facebook.jpg' alt='facebook' height='40'>](https://web.facebook.com/shahidulislam.20)  [<img src='https://i.ibb.co/1GK4rfs/twitter.jpg' alt='twitter' height='40'>](https://twitter.com/shahidul_satu)  
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=react,js,mongodb,tailwind,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,node,express,js,mongodb,tailwind,html,css)](https://skillicons.dev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahidulislam-20&show_icons=true&theme=radical)
 
