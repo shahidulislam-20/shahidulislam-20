@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/5vb92Qb/Black-Technology-Linked-In-Banner.jpg)
 
-Hello, I'm a junior MERN stack web developer, specializing in MongoDB, Express, React, Node JS and JavaScript. My vision is to create digital experiences that seamlessly blend functionality with an intuitive user interface. I'm deeply passionate about transforming ideas into interactive, visually appealing realities.
+Hello, I'm a junior MERN stack web developer, specializing in MongoDB, Express, React, Node JS, and JavaScript. My vision is to create digital experiences that seamlessly blend functionality with an intuitive user interface. I'm deeply passionate about transforming ideas into interactive, visually appealing realities.
 
 - 📫 How to reach me: shahidul.bd.1920@gmail.com 
 
@@ -13,4 +13,4 @@ Hello, I'm a junior MERN stack web developer, specializing in MongoDB, Express, 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shahidulislam-20&theme=dark)](https://git.io/streak-stats)
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahidulislam-20&theme=react-dark)]
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahidulislam-20&theme=react-dark)
