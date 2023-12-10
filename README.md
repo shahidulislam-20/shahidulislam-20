@@ -11,6 +11,6 @@ Hello, I'm a junior MERN stack web developer, specializing in MongoDB, Express, 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahidulislam-20&theme=react&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shahidulislam-20&theme=react-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shahidulislam-20&theme=react)
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahidulislam-20&theme=react-dark)
