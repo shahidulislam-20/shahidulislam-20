@@ -9,6 +9,7 @@ Hello, I'm a junior MERN stack web developer, specializing in MongoDB, Express, 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,js,mongodb,tailwind,html,css)](https://skillicons.dev)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahidulislam-20&show_icons=true&theme=radical)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shahidulislam-20)  
